@@ -6,8 +6,8 @@ sites:
     url: https://www.google.com
   - name: Youtube
     url: https://www.youtube.com
-  - name: Anchorpoint Cloud
-    url: https://cloud.anchorpoint.app/api/health
+  - name: Reddit
+    url: https://www.reddit.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -17,7 +17,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upcheck Status
   introTitle: "Check uptime and status of websites, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: [**Get your own for status page for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
