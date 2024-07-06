@@ -17,7 +17,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upcheck Status
   introTitle: "Check uptime and status of websites, powered entirely by GitHub."
-  introMessage: [**Get your own for status page for free**](https://github.com/upptime/upptime)
+  introMessage: Get your own [** for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
