@@ -19,5 +19,12 @@ status-website:
   navbar:
     - title: Status
       href: /
+
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
+
+i18n:
+  footer: This page is [open source]($REPO)
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
